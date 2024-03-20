@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://braunportfolio-io.vercel.app/" target="_blank">jeybraun.tech</a>
+  <a href="https://braunportfolio-io.vercel.app/" target="_blank">bayel.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
