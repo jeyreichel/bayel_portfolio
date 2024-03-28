@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website - v2.1<br/>
   <a href="https://braunportfolio-io.vercel.app/" target="_blank">bayel.tech</a>
 </h2>
 <div align="center">
